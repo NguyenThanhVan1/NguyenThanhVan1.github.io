@@ -2,6 +2,50 @@
 
 ---
 
+### Freelance Marketplace Web Application
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tuanPeo27/FreelanceWeb)
+
+<div style="text-align: justify">
+The Freelance Marketplace Web Application is a platform that connects clients with freelancers. 
+Users can create accounts, post jobs, send proposals, and manage contracts through the system. 
+The platform helps clients find suitable freelancers while allowing freelancers to showcase their skills and apply for jobs.
+</div>
+
+**Key Features:**
+
+- User registration and login system
+- Job posting and job search functionality
+- Freelancers can submit proposals for projects
+- Clients can review proposals and create contracts
+- Project and contract management system
+
+<br>
+<center><img src="images/freelance.jpg"></center>
+<br>
+---
+
+### Smart Bus Tracking System
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NguyenThanhVan1/BUS_CNPM)
+
+<div style="text-align: justify">
+The Smart Bus Tracking System is a project designed to monitor and manage bus locations in real time. 
+The system allows users to track buses on a map, view estimated arrival times, and receive updates 
+about bus routes and schedules. This helps passengers reduce waiting time and improves the efficiency 
+of public transportation management.
+</div>
+
+**Key Features:**
+
+- Real-time bus location tracking
+- Display bus routes and stops
+- Estimated arrival time for each bus
+- User-friendly interface for passengers
+- Data management for routes and buses
+
+## <center><img src="images/bus.jpg"/></center>
+
 ## Pacman Game
 
 ### Classic Pacman Arcade Game
@@ -28,31 +72,6 @@ Python, Object-Oriented Programming, Game Logic Design
 
 ---
 
-### Smart Bus Tracking System
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NguyenThanhVan1/BUS_CNPM)
-
-<div style="text-align: justify">
-The Smart Bus Tracking System is a project designed to monitor and manage bus locations in real time. 
-The system allows users to track buses on a map, view estimated arrival times, and receive updates 
-about bus routes and schedules. This helps passengers reduce waiting time and improves the efficiency 
-of public transportation management.
-</div>
-
-**Key Features:**
-
-- Real-time bus location tracking
-- Display bus routes and stops
-- Estimated arrival time for each bus
-- User-friendly interface for passengers
-- Data management for routes and buses
-
-<center><img src="images/bus.jpg"/></center>
-
----
-
----
-
 ### Motorcycle Shop Management System
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NguyenThanhVan1/QuanLyXeMay_N8/tree/NTV)
@@ -73,30 +92,6 @@ It provides tools for tracking sales, managing stock, and organizing business da
 
 <br>
 <center><img src="images/xemay.jpg"></center>
-<br>
-
----
-
-### Freelance Marketplace Web Application
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tuanPeo27/FreelanceWeb)
-
-<div style="text-align: justify">
-The Freelance Marketplace Web Application is a platform that connects clients with freelancers. 
-Users can create accounts, post jobs, send proposals, and manage contracts through the system. 
-The platform helps clients find suitable freelancers while allowing freelancers to showcase their skills and apply for jobs.
-</div>
-
-**Key Features:**
-
-- User registration and login system
-- Job posting and job search functionality
-- Freelancers can submit proposals for projects
-- Clients can review proposals and create contracts
-- Project and contract management system
-
-<br>
-<center><img src="images/freelance.jpg"></center>
 <br>
 
 ---
