@@ -2,17 +2,27 @@
 
 ---
 
-## Natural Language Processing
+## Pacman Game
 
-### CS224n: Natural Language Processing with Deep Learning
+### Classic Pacman Arcade Game
 
-My complete implementation of assignments and projects in [**_CS224n: Natural Language Processing with Deep Learning_**](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+This project is an implementation of the classic **Pacman arcade game**. The player controls Pacman to move through a maze, collect pellets, and avoid ghosts while trying to achieve the highest possible score.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NguyenThanhVan1/Pacman_main)
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Game Mechanics:**  
+Players control Pacman using keyboard inputs to move around the maze. Pacman collects pellets to increase the score while avoiding ghosts that move through the map.
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+**Game Features:**
+
+- Character movement using keyboard controls
+- Collision detection between Pacman, walls, and ghosts
+- Score tracking system
+- Basic ghost AI movement
+- Classic maze gameplay
+
+**Technologies Used:**  
+Python, Object-Oriented Programming, Game Logic Design
 
 <center><img src="images/Pacman.jpg"/></center>
 
