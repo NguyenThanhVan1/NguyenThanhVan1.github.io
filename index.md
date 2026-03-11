@@ -8,7 +8,7 @@
 
 This project is an implementation of the classic **Pacman arcade game**. The player controls Pacman to move through a maze, collect pellets, and avoid ghosts while trying to achieve the highest possible score.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NguyenThanhVan1/Pacman_main)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NguyenThanhVan1/Pacman)
 
 **Game Mechanics:**  
 Players control Pacman using keyboard inputs to move around the maze. Pacman collects pellets to increase the score while avoiding ghosts that move through the map.
@@ -28,24 +28,51 @@ Python, Object-Oriented Programming, Game Logic Design
 
 ---
 
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Smart Bus Tracking System
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NguyenThanhVan1/BUS_CNPM)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">
+The Smart Bus Tracking System is a project designed to monitor and manage bus locations in real time. 
+The system allows users to track buses on a map, view estimated arrival times, and receive updates 
+about bus routes and schedules. This helps passengers reduce waiting time and improves the efficiency 
+of public transportation management.
+</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+**Key Features:**
+
+- Real-time bus location tracking
+- Display bus routes and stops
+- Estimated arrival time for each bus
+- User-friendly interface for passengers
+- Data management for routes and buses
+
+<center><img src="images/bus.jpg"/></center>
 
 ---
 
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+---
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+### Motorcycle Shop Management System
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NguyenThanhVan1/QuanLyXeMay_N8/tree/NTV)
+
+<div style="text-align: justify">
+The Motorcycle Shop Management System is designed to help manage the operations of a motorcycle store. 
+The system allows administrators and staff to manage motorcycles, customers, invoices, suppliers, and inventory efficiently. 
+It provides tools for tracking sales, managing stock, and organizing business data in a structured database system.
+</div>
+
+**Key Features:**
+
+- Manage motorcycle products and inventory
+- Customer information management
+- Sales and invoice management
+- Supplier and purchase management
+- Data storage using relational databases
+
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="xemay.jpg"></center>
 <br>
 
 ---
