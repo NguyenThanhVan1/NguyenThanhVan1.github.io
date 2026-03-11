@@ -1,6 +1,6 @@
 title: <p align="center"> Van Nguyen </p>
 
-logo: "/images/picture.png?raw=true"
+logo: "/images/ntv.png?raw=true"
 
 description: <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
@@ -9,10 +9,11 @@ description: <p align="center">
   </p>
 
   <p align="justify">
-  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
+  I am an Information Technology student passionate about software development and building practical applications.
   <br><br>
-  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  My experience includes developing systems using Java, C#, PHP, MySQL, and SQL Server. I enjoy working on backend development, database design, and building management systems and web applications.
   <br><br>
+  I am continuously improving my programming and problem-solving skills while creating projects that demonstrate my technical abilities.
   </p>
 
 theme: jekyll-theme-minimal
