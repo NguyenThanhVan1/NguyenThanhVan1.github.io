@@ -72,7 +72,7 @@ It provides tools for tracking sales, managing stock, and organizing business da
 - Data storage using relational databases
 
 <br>
-<center><img src="image/xemay.jpg"></center>
+<center><img src="images/xemay.jpg"></center>
 <br>
 
 ---
